@@ -4,7 +4,7 @@
 
 ## 界面
 
-[](./readme/select.png)
+![](./readme/select.png)
 
 
 
