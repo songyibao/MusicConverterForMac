@@ -4,9 +4,9 @@
 
 ## 界面
 
-<img src="./readme/select.png" alt="选择界面" style="zoom:50%;" />
+[](./readme/select.png)
 
-<img src="./readme/result.png" alt="转换结果" style="zoom:50%;" />
+
 
 ## 特性
 
