@@ -15,7 +15,6 @@
 		3B3FB44F2B88667F001AFC2D /* MusicConverterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B3FB44E2B88667F001AFC2D /* MusicConverterUITests.swift */; };
 		3B3FB4512B88667F001AFC2D /* MusicConverterUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B3FB4502B88667F001AFC2D /* MusicConverterUITestsLaunchTests.swift */; };
 		3B466F072B886F9500C3BFFB /* um in Resources */ = {isa = PBXBuildFile; fileRef = 3B466F062B886F9500C3BFFB /* um */; };
-		3B466F092B88855500C3BFFB /* um in Sources */ = {isa = PBXBuildFile; fileRef = 3B466F062B886F9500C3BFFB /* um */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -272,7 +271,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3B466F092B88855500C3BFFB /* um in Sources */,
 				3B3FB4352B88667E001AFC2D /* ContentView.swift in Sources */,
 				3B3FB4332B88667E001AFC2D /* MusicConverterApp.swift in Sources */,
 			);
@@ -434,10 +432,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_ENTITLEMENTS = MusicConverter/MusicConverter.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 4;
 				DEVELOPMENT_ASSET_PATHS = "\"MusicConverter/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -460,10 +459,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_ENTITLEMENTS = MusicConverter/MusicConverter.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 4;
 				DEVELOPMENT_ASSET_PATHS = "\"MusicConverter/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;

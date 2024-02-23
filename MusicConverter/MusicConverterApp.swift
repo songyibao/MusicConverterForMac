@@ -13,5 +13,7 @@ struct MusicConverterApp: App {
         WindowGroup {
             ContentView()
         }
+        .defaultSize(width: 500, height: 300)
     }
 }
+
